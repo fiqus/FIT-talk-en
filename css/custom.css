@@ -1,0 +1,16 @@
+.img-logo {
+	border: none !important;
+	background: none !important;
+	width: 400px;
+	padding: 30px !important;
+	box-shadow: none !important;
+}
+
+
+h1, h2, h3, p {
+    font-family: 'Mukta', sans-serif !important;
+}
+
+.blue {
+	color:rgb(66, 175, 250) !important;
+}
